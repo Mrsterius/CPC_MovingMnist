@@ -13,7 +13,7 @@ To train the CPC algorithm, I have used the Moving Mnist dataset. This dataset c
 
 ### Results
 
-After 10 training epochs, CPC reports a 100% accuracy on the contrastive task. 
+After 10 training epochs, CPC reports a 100% validation accuracy on the contrastive task. 
 
 ### Usage
 
